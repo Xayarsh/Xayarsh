@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Xayarsh
-- 👀 I’m interested in Python and web development.
-- 🌱 I’m currently learning python.
